@@ -7,4 +7,4 @@ Although it's important to keep in mind that there's allways something new to le
 
 *"For I was conscious that I knew practically nothing..."*
 
-– Socrates, *Plato, Apology 22d, translated by Harold North Fowler, 1966*
+*– Socrates*
