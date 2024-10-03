@@ -3,7 +3,7 @@
 
 Hopefully after I get my college degree I'll become a competent fullstack developer.
 
-Although it's important to keep in mind that there's allways something new to learn, no matter at what stage you are in your career. <br/>**There's a quote that describes this in a beautiful way:**
+Although it's important to keep in mind that there's always something new to learn, no matter at what stage you are in your career. <br/>**There's a quote that describes this in a beautiful way:**
 
 *"For I was conscious that I knew practically nothing..."*
 
